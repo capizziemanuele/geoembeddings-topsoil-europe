@@ -1,0 +1,14 @@
+{
+  "n_fit_points": 18460,
+  "n_fit_countries": 27,
+  "n_reported_countries": 24,
+  "n_reported_points": 18268,
+  "mean_r2_embeddings": 0.2385349443826327,
+  "mean_r2_spectral": 0.00572031107038556,
+  "median_r2_embeddings": 0.26204136999024,
+  "positive_embeddings": 22,
+  "negative_spectral": 9,
+  "embeddings_better": 22,
+  "pooled_r2_embeddings": 0.41350845753967,
+  "pooled_r2_spectral": 0.27967848518735483
+}

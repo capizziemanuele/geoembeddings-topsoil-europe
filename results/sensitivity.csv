@@ -1,0 +1,13 @@
+model,features,scheme,r2_fold_mean,r2_fold_sd,median_alpha
+Scaling on the outer training set (used in the paper),Embeddings,random,0.4727933040260748,0.011794207528998304,204.33597178569437
+"Nested tuning, scaling refitted in each inner fold",Embeddings,random,0.4727933040260748,0.011794207528998304,204.33597178569437
+Nested tuning with NUTS2 regions kept together inside,Embeddings,random,0.47416841498349765,0.012245015117833892,67.23357536499334
+Scaling on the outer training set (used in the paper),Embeddings,nuts2,0.431145364420801,0.062404477162210856,117.21022975334817
+"Nested tuning, scaling refitted in each inner fold",Embeddings,nuts2,0.4311193716577277,0.062452971794704146,117.21022975334817
+Nested tuning with NUTS2 regions kept together inside,Embeddings,nuts2,0.42927324538626566,0.06299127632820786,117.21022975334817
+Scaling on the outer training set (used in the paper),Spectral indices,random,0.31617925847812245,0.011346242857836322,204.33597178569437
+"Nested tuning, scaling refitted in each inner fold",Spectral indices,random,0.3153546456503094,0.011316215209718442,356.2247890262444
+Nested tuning with NUTS2 regions kept together inside,Spectral indices,random,0.3186387884228886,0.012167866115305823,38.56620421163472
+Scaling on the outer training set (used in the paper),Spectral indices,nuts2,0.28506686796574404,0.05750459345788993,204.33597178569437
+"Nested tuning, scaling refitted in each inner fold",Spectral indices,nuts2,0.28506686796574404,0.05750459345788993,204.33597178569437
+Nested tuning with NUTS2 regions kept together inside,Spectral indices,nuts2,0.28374740432529527,0.05829953192227309,22.122162910704503

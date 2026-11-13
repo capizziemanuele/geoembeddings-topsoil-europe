@@ -1,0 +1,20 @@
+{
+  "n_points": 18447,
+  "n_missing": 15,
+  "soc_change_zero": 18065,
+  "soc_change_zero_pct": 97.92920258036537,
+  "soc_change_min": -75.0,
+  "soc_change_max": 30.0,
+  "degraded_reporting": 3364,
+  "degraded_any_incl_baseline": 4596,
+  "reconstruction_identical": true,
+  "flag_productivity": 3264,
+  "flag_land_cover": 123,
+  "flag_soil_carbon": 20,
+  "soil_carbon_only": 13,
+  "productivity_only": 3222,
+  "two_or_more_flags": 43,
+  "median_oc_degraded": 24.4,
+  "median_oc_not_degraded": 21.1,
+  "median_oc_stable": 20.4
+}

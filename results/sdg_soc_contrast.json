@@ -1,0 +1,43 @@
+{
+  "median_oc_degraded": 24.4,
+  "median_oc_other": 21.1,
+  "difference": 3.299999999999997,
+  "difference_ci95_regions": [
+    0.7987500000000007,
+    6.099999999999998
+  ],
+  "by_land_cover": {
+    "Cropland": {
+      "n_degraded": 1279,
+      "n_other": 5987,
+      "median_degraded": 16.2,
+      "median_other": 14.3
+    },
+    "Grassland": {
+      "n_degraded": 709,
+      "n_other": 3142,
+      "median_degraded": 29.8,
+      "median_other": 27.5
+    },
+    "Woodland": {
+      "n_degraded": 1196,
+      "n_other": 4713,
+      "median_degraded": 47.6,
+      "median_other": 41.5
+    },
+    "Shrubland": {
+      "n_degraded": 88,
+      "n_other": 600,
+      "median_degraded": 37.15,
+      "median_other": 31.8
+    },
+    "Bareland": {
+      "n_degraded": 74,
+      "n_other": 549,
+      "median_degraded": 15.399999999999999,
+      "median_other": 12.3
+    }
+  },
+  "countries_compared": 21,
+  "countries_higher_when_degraded": 14
+}

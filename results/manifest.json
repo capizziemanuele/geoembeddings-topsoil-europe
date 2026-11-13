@@ -1,0 +1,11 @@
+{
+  "date": "2026-09-21",
+  "python": "3.11.15",
+  "pandas": "3.0.2",
+  "numpy": "2.4.4",
+  "scikit-learn": "1.8.0",
+  "lightgbm": "4.7.0",
+  "sites": 18462,
+  "seed": 0,
+  "folds": 5
+}

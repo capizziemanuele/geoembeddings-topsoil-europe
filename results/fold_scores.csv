@@ -1,0 +1,211 @@
+model,target,scheme,fold,r2
+"Position, linear",logOC,random,1,0.15300640620716244
+"Position, linear",logOC,random,2,0.16125643580686122
+"Position, linear",logOC,random,3,0.15002790490293527
+"Position, linear",logOC,random,4,0.15769334633006737
+"Position, linear",logOC,random,5,0.15222206788937398
+"Position, linear",logOC,nuts2,1,-0.011835870492111766
+"Position, linear",logOC,nuts2,2,0.12771818047457795
+"Position, linear",logOC,nuts2,3,0.10576134316888164
+"Position, linear",logOC,nuts2,4,0.09829897596351855
+"Position, linear",logOC,nuts2,5,0.21597985232267392
+"Position, nearest neighbours",logOC,random,1,0.42648509238345045
+"Position, nearest neighbours",logOC,random,2,0.4306554209453649
+"Position, nearest neighbours",logOC,random,3,0.4141191582040512
+"Position, nearest neighbours",logOC,random,4,0.4159072062432485
+"Position, nearest neighbours",logOC,random,5,0.414057891776588
+"Position, nearest neighbours",logOC,nuts2,1,-0.1575142703349739
+"Position, nearest neighbours",logOC,nuts2,2,0.2840194695559992
+"Position, nearest neighbours",logOC,nuts2,3,0.11029064572167435
+"Position, nearest neighbours",logOC,nuts2,4,0.229914093004838
+"Position, nearest neighbours",logOC,nuts2,5,0.24659806592233424
+Land cover class,logOC,random,1,0.2864428415232403
+Land cover class,logOC,random,2,0.2972457007820156
+Land cover class,logOC,random,3,0.2745836173019143
+Land cover class,logOC,random,4,0.291840550058144
+Land cover class,logOC,random,5,0.2686189013696949
+Land cover class,logOC,nuts2,1,0.1998924158162222
+Land cover class,logOC,nuts2,2,0.2723366049093764
+Land cover class,logOC,nuts2,3,0.18956008739918329
+Land cover class,logOC,nuts2,4,0.27052513378249743
+Land cover class,logOC,nuts2,5,0.3047538212760802
+NDVI + BSI,logOC,random,1,0.26532883788181805
+NDVI + BSI,logOC,random,2,0.28820646375784253
+NDVI + BSI,logOC,random,3,0.26528341713767634
+NDVI + BSI,logOC,random,4,0.2915485119905121
+NDVI + BSI,logOC,random,5,0.26700005228090284
+NDVI + BSI,logOC,nuts2,1,0.2256409184626107
+NDVI + BSI,logOC,nuts2,2,0.27775878935546006
+NDVI + BSI,logOC,nuts2,3,0.18078593151700983
+NDVI + BSI,logOC,nuts2,4,0.2264974735539268
+NDVI + BSI,logOC,nuts2,5,0.3014716261805639
+Spectral indices,logOC,random,1,0.3109635230338974
+Spectral indices,logOC,random,2,0.3276330773421793
+Spectral indices,logOC,random,3,0.3061973820146201
+Spectral indices,logOC,random,4,0.3292294642247846
+Spectral indices,logOC,random,5,0.30687284577513096
+Spectral indices,logOC,nuts2,1,0.2791045474936307
+Spectral indices,logOC,nuts2,2,0.327892766532772
+Spectral indices,logOC,nuts2,3,0.2080347563943321
+Spectral indices,logOC,nuts2,4,0.25710529998564
+Spectral indices,logOC,nuts2,5,0.35319696942234546
+Embeddings,logOC,random,1,0.4753975355459876
+Embeddings,logOC,random,2,0.4884875373591562
+Embeddings,logOC,random,3,0.4601125897685375
+Embeddings,logOC,random,4,0.47794502758358726
+Embeddings,logOC,random,5,0.46202382987310553
+Embeddings,logOC,nuts2,1,0.4013775972376139
+Embeddings,logOC,nuts2,2,0.4811888590942045
+Embeddings,logOC,nuts2,3,0.3380188589322618
+Embeddings,logOC,nuts2,4,0.44682659996207474
+Embeddings,logOC,nuts2,5,0.4883149068778503
+Embeddings + spectral,logOC,random,1,0.47562760308832874
+Embeddings + spectral,logOC,random,2,0.48855151911886174
+Embeddings + spectral,logOC,random,3,0.4598143959631047
+Embeddings + spectral,logOC,random,4,0.4769775338308797
+Embeddings + spectral,logOC,random,5,0.46324178120700343
+Embeddings + spectral,logOC,nuts2,1,0.40284179251800845
+Embeddings + spectral,logOC,nuts2,2,0.48119072069135504
+Embeddings + spectral,logOC,nuts2,3,0.3323099801018162
+Embeddings + spectral,logOC,nuts2,4,0.4452973956798779
+Embeddings + spectral,logOC,nuts2,5,0.48881561100042314
+SoilGrids properties,logOC,random,1,0.5276742913967374
+SoilGrids properties,logOC,random,2,0.5393269262926454
+SoilGrids properties,logOC,random,3,0.5284164465550734
+SoilGrids properties,logOC,random,4,0.5303954107643659
+SoilGrids properties,logOC,random,5,0.5228911824670732
+SoilGrids properties,logOC,nuts2,1,0.5143722405026375
+SoilGrids properties,logOC,nuts2,2,0.5148753630844147
+SoilGrids properties,logOC,nuts2,3,0.43527326944214817
+SoilGrids properties,logOC,nuts2,4,0.5210185540295214
+SoilGrids properties,logOC,nuts2,5,0.5409706777350372
+SoilGrids + embeddings,logOC,random,1,0.5978065586321484
+SoilGrids + embeddings,logOC,random,2,0.5993208966343251
+SoilGrids + embeddings,logOC,random,3,0.5965450335240832
+SoilGrids + embeddings,logOC,random,4,0.5999787438021478
+SoilGrids + embeddings,logOC,random,5,0.5950057512346243
+SoilGrids + embeddings,logOC,nuts2,1,0.5863628637440519
+SoilGrids + embeddings,logOC,nuts2,2,0.5963285352356772
+SoilGrids + embeddings,logOC,nuts2,3,0.49577293758226126
+SoilGrids + embeddings,logOC,nuts2,4,0.5797979797131597
+SoilGrids + embeddings,logOC,nuts2,5,0.5964599940738461
+NDVI + BSI,logN,random,1,0.1952624947453715
+NDVI + BSI,logN,random,2,0.17946753728851772
+NDVI + BSI,logN,random,3,0.1771106797595957
+NDVI + BSI,logN,random,4,0.1800118619060127
+NDVI + BSI,logN,random,5,0.19758582088949406
+NDVI + BSI,logN,nuts2,1,0.16824952164813278
+NDVI + BSI,logN,nuts2,2,0.2649067769295297
+NDVI + BSI,logN,nuts2,3,0.09472606908044345
+NDVI + BSI,logN,nuts2,4,0.1311901770784537
+NDVI + BSI,logN,nuts2,5,0.22689331613643415
+Spectral indices,logN,random,1,0.20707405009830682
+Spectral indices,logN,random,2,0.19319782438921995
+Spectral indices,logN,random,3,0.18860637203382147
+Spectral indices,logN,random,4,0.18680795225646962
+Spectral indices,logN,random,5,0.20733671998583336
+Spectral indices,logN,nuts2,1,0.17402264605378115
+Spectral indices,logN,nuts2,2,0.27928867143021696
+Spectral indices,logN,nuts2,3,0.11161417243584393
+Spectral indices,logN,nuts2,4,0.13526152293013916
+Spectral indices,logN,nuts2,5,0.236543688781235
+Embeddings,logN,random,1,0.373637024002931
+Embeddings,logN,random,2,0.3574317957140659
+Embeddings,logN,random,3,0.33634491279772905
+Embeddings,logN,random,4,0.3441342606331793
+Embeddings,logN,random,5,0.3412703638960801
+Embeddings,logN,nuts2,1,0.3384026905855855
+Embeddings,logN,nuts2,2,0.4162656424783211
+Embeddings,logN,nuts2,3,0.2026696111949633
+Embeddings,logN,nuts2,4,0.27627271134198617
+Embeddings,logN,nuts2,5,0.37996989998671826
+NDVI + BSI,pH_H2O,random,1,0.3729427154121491
+NDVI + BSI,pH_H2O,random,2,0.367540164592018
+NDVI + BSI,pH_H2O,random,3,0.3496835868339975
+NDVI + BSI,pH_H2O,random,4,0.3526834476474672
+NDVI + BSI,pH_H2O,random,5,0.38240349099345017
+NDVI + BSI,pH_H2O,nuts2,1,0.0950471081516443
+NDVI + BSI,pH_H2O,nuts2,2,0.344678249806351
+NDVI + BSI,pH_H2O,nuts2,3,0.3209650548213099
+NDVI + BSI,pH_H2O,nuts2,4,0.2159167497645872
+NDVI + BSI,pH_H2O,nuts2,5,0.3891169346212582
+Spectral indices,pH_H2O,random,1,0.4722963198185637
+Spectral indices,pH_H2O,random,2,0.459057956092765
+Spectral indices,pH_H2O,random,3,0.44258877390286777
+Spectral indices,pH_H2O,random,4,0.44344263239346793
+Spectral indices,pH_H2O,random,5,0.47628365855189614
+Spectral indices,pH_H2O,nuts2,1,0.2216885923936791
+Spectral indices,pH_H2O,nuts2,2,0.41485653884394713
+Spectral indices,pH_H2O,nuts2,3,0.4576403270392603
+Spectral indices,pH_H2O,nuts2,4,0.32710156421761116
+Spectral indices,pH_H2O,nuts2,5,0.48370460857266884
+Embeddings,pH_H2O,random,1,0.6540707077026742
+Embeddings,pH_H2O,random,2,0.6553269778165354
+Embeddings,pH_H2O,random,3,0.650243715824235
+Embeddings,pH_H2O,random,4,0.6393058024632448
+Embeddings,pH_H2O,random,5,0.6665553897837713
+Embeddings,pH_H2O,nuts2,1,0.4861446720654832
+Embeddings,pH_H2O,nuts2,2,0.5998061511262038
+Embeddings,pH_H2O,nuts2,3,0.6174529850584083
+Embeddings,pH_H2O,nuts2,4,0.6294794106374666
+Embeddings,pH_H2O,nuts2,5,0.6655088219942944
+NDVI + BSI,logSG_SOC,random,1,0.5014191070980745
+NDVI + BSI,logSG_SOC,random,2,0.5209282007527392
+NDVI + BSI,logSG_SOC,random,3,0.4939822520316641
+NDVI + BSI,logSG_SOC,random,4,0.4758687462991714
+NDVI + BSI,logSG_SOC,random,5,0.507868125638074
+NDVI + BSI,logSG_SOC,nuts2,1,0.12785440710248663
+NDVI + BSI,logSG_SOC,nuts2,2,0.4438940713776396
+NDVI + BSI,logSG_SOC,nuts2,3,0.30990133431451883
+NDVI + BSI,logSG_SOC,nuts2,4,0.42330714839583305
+NDVI + BSI,logSG_SOC,nuts2,5,0.5121079325948613
+Spectral indices,logSG_SOC,random,1,0.5797992672727025
+Spectral indices,logSG_SOC,random,2,0.5828192888403455
+Spectral indices,logSG_SOC,random,3,0.5688444474275423
+Spectral indices,logSG_SOC,random,4,0.5484491317942826
+Spectral indices,logSG_SOC,random,5,0.5718811948288549
+Spectral indices,logSG_SOC,nuts2,1,0.22379461516174504
+Spectral indices,logSG_SOC,nuts2,2,0.5017763302050013
+Spectral indices,logSG_SOC,nuts2,3,0.44568458002972255
+Spectral indices,logSG_SOC,nuts2,4,0.5304093677571513
+Spectral indices,logSG_SOC,nuts2,5,0.5755317914348582
+Embeddings,logSG_SOC,random,1,0.8867878250579108
+Embeddings,logSG_SOC,random,2,0.8946803088433921
+Embeddings,logSG_SOC,random,3,0.8875968515827369
+Embeddings,logSG_SOC,random,4,0.8815958477894744
+Embeddings,logSG_SOC,random,5,0.8880617171989451
+Embeddings,logSG_SOC,nuts2,1,0.7582262542646229
+Embeddings,logSG_SOC,nuts2,2,0.8470589771485979
+Embeddings,logSG_SOC,nuts2,3,0.8769631466614735
+Embeddings,logSG_SOC,nuts2,4,0.8791045316104766
+Embeddings,logSG_SOC,nuts2,5,0.8933808938670973
+LightGBM spectral indices,logOC,random,1,0.33164592263547377
+LightGBM spectral indices,logOC,random,2,0.3370345003541949
+LightGBM spectral indices,logOC,random,3,0.30469607565092205
+LightGBM spectral indices,logOC,random,4,0.340629518502761
+LightGBM spectral indices,logOC,random,5,0.35297701959040206
+LightGBM spectral indices,logOC,nuts2,1,0.3040229800328752
+LightGBM spectral indices,logOC,nuts2,2,0.32069826191790296
+LightGBM spectral indices,logOC,nuts2,3,0.18386888835386506
+LightGBM spectral indices,logOC,nuts2,4,0.28777648666898314
+LightGBM spectral indices,logOC,nuts2,5,0.3536203534094454
+LightGBM embeddings,logOC,random,1,0.5436479831532441
+LightGBM embeddings,logOC,random,2,0.5548244226914766
+LightGBM embeddings,logOC,random,3,0.5262742711619252
+LightGBM embeddings,logOC,random,4,0.5447113225681544
+LightGBM embeddings,logOC,random,5,0.5390408751554232
+LightGBM embeddings,logOC,nuts2,1,0.46374873962098906
+LightGBM embeddings,logOC,nuts2,2,0.5217900812824772
+LightGBM embeddings,logOC,nuts2,3,0.3788069669877794
+LightGBM embeddings,logOC,nuts2,4,0.5003804422398136
+LightGBM embeddings,logOC,nuts2,5,0.5304244493590939
+LightGBM all 86 predictors,logOC,random,1,0.6389899970973887
+LightGBM all 86 predictors,logOC,random,2,0.6384517656301132
+LightGBM all 86 predictors,logOC,random,3,0.631100395607503
+LightGBM all 86 predictors,logOC,random,4,0.652438450586504
+LightGBM all 86 predictors,logOC,random,5,0.6339599257318689
+LightGBM all 86 predictors,logOC,nuts2,1,0.6182110336652273
+LightGBM all 86 predictors,logOC,nuts2,2,0.6042830288019515
+LightGBM all 86 predictors,logOC,nuts2,3,0.5063615795800434
+LightGBM all 86 predictors,logOC,nuts2,4,0.6079464684703242
+LightGBM all 86 predictors,logOC,nuts2,5,0.6109078559236834
