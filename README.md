@@ -2,7 +2,7 @@
 
 Code for the paper "AlphaEarth embeddings for topsoil organic carbon prediction
 across Europe: evaluation against field and modeled references" (Capizzi,
-Schillaci and Giuliani, Frontiers in Soil Science, in preparation).
+Schillaci and Giuliani, Frontiers in Soil Science, submitted to Frontiers in Soil Science).
 
 We compare Google AlphaEarth embeddings with Sentinel-2 spectral indices for
 predicting topsoil organic carbon at 18,462 LUCAS 2018 sites, and check how the
