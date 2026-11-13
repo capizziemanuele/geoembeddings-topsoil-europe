@@ -1,0 +1,20 @@
+# input data (see data/README.md)
+data/*.csv
+data/*.shp
+data/*.dbf
+data/*.shx
+data/*.prj
+data/*.cpg
+
+# site table with LUCAS coordinates and measured OC: same terms as the input
+# data, so it is not redistributed. run_analysis.py writes it again.
+results/points.csv.gz
+
+# large outputs
+figures/*.tif
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
