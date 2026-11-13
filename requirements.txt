@@ -1,0 +1,7 @@
+pandas>=2.2
+numpy>=2.0
+scikit-learn>=1.7
+lightgbm>=4.7
+matplotlib>=3.10
+geopandas>=1.0
+pillow

@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+title: "geoembeddings-topsoil-europe"
+message: "If you use this code, please cite the paper below."
+type: software
+authors:
+  - family-names: Capizzi
+    given-names: Emanuele
+    affiliation: "University of Geneva"
+  - family-names: Schillaci
+    given-names: Calogero
+    affiliation: "European Commission, Joint Research Centre"
+  - family-names: Giuliani
+    given-names: Gregory
+    affiliation: "University of Geneva"
+license: MIT
+repository-code: "https://github.com/capizziemanuele/geoembeddings-topsoil-europe"
+preferred-citation:
+  type: article
+  title: "AlphaEarth embeddings for topsoil organic carbon prediction across Europe: evaluation against field and modeled references"
+  authors:
+    - family-names: Capizzi
+      given-names: Emanuele
+    - family-names: Schillaci
+      given-names: Calogero
+    - family-names: Giuliani
+      given-names: Gregory
+  year: 2026
+  journal: "Frontiers in Soil Science"
